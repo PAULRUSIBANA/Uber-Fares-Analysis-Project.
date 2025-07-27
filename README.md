@@ -92,6 +92,9 @@ The enhanced dataset was imported into Power BI Desktop and used to create the f
 * **Outliers:** A few extremely high fares (\$400+) exist, possibly due to long trips or input errors
 
 ---
+### 📊 Download the Power BI Dashboard
+
+📁 [uber_dashboard.pbix](./uber_dashboard.pbix) – Power BI file containing all visuals and analysis
 
 ## 🧠 Recommendations
 
@@ -116,7 +119,6 @@ The enhanced dataset was imported into Power BI Desktop and used to create the f
 * **Course:** INSY 8413 - Introduction to Big Data Analytics
 * **Instructor:** Eric Maniraguha
 * **Institution:** Adventist University of Central Africa
-* **Submission Date:** July 25, 2025
 
 ---
 
